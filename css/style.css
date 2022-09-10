@@ -1,0 +1,13 @@
+body {
+
+    color: #0b19b2e0;
+  }
+  .jumbotron {
+    background-image: linear-gradient(to 
+    bottom, rgba(255, 255, 255, 0.052) 
+    0%,rgba(255,255,255,0.9) 100%), url("../images/navel.jpg");
+    background-position: center;
+    background-size: auto;
+    text-align: center;
+  }
+
